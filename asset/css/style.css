@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&display=swap');
+
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: #000;
+    text-align: center;
+    font-weight: 300;
+    color: #fff;
+}
+
+header h1 {
+    height: 59px;
+    padding: 7px;
+    font-size: 50px;
+}
+
+header img{
+    width: 100%;
+    font-weight: 500;
+}
+
+.desc-section div {
+    display: inline-block;
+    padding: 50px;
+}
+
+.desc-section img {
+    margin: 45px;
+    width: 399px;
+}
+
+.desc-section p {
+    text-align: left;
+    margin: 75px;
+    left: 150px;
+    width: 475px;
+    font-size: 16px;
+    font-weight: 300;
+    float: left;
+}
+
+.icons-section {
+    background-color: #1E1A13;
+    height: 348px;
+}
+
+.icons-section div {
+    position: relative;
+    top: 130px;
+    width: 300px;
+    display: inline-block;
+}
+
+.icons-section h2 {
+    position: relative;
+    top: 75px;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.icons-section i {
+    font-size: 57px;
+}
+
+.icons-section p {
+    position: relative;
+    top: 15px;
+    font-size: 24px;
+}
+
+.gallery {
+    margin: 50px;
+}
+
+.gallery img {
+    width: 400px;
+    padding: 5px;
+    height: 300px;
+}
+
+footer {
+    height: 100px;
+    background-color: #1E1A13;
+}
+
+footer p {
+    padding: 40px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
